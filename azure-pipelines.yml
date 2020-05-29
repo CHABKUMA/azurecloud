@@ -6,9 +6,9 @@ pool:
 variables:
 - group: Talend Configuration
 - name: project_name
-  value: 'AZUREPIPELINE'
+  value: 'Tc_Azure_devOps'
 - name: job_name
-  value: 'joindatadb'
+  value: 'JoinDatadDB'
 - name: job_version
   value: '0.1'   
 steps:
